@@ -1,4 +1,5 @@
 # playwright.dev
+# By Mudassir Alam
 
 This website is built using [Docusaurus](https://docusaurus.io/). Content is pulled from the microsoft/playwright repo.
 
